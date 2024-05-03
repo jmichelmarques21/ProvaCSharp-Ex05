@@ -1,0 +1,14 @@
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\bin\Debug\net7.0\Exercicio05.exe
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\bin\Debug\net7.0\Exercicio05.deps.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\bin\Debug\net7.0\Exercicio05.runtimeconfig.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\bin\Debug\net7.0\Exercicio05.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\bin\Debug\net7.0\Exercicio05.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.AssemblyInfoInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.AssemblyInfo.cs
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\refint\Exercicio05.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\Exercicio05.genruntimeconfig.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\Exercicio05\obj\Debug\net7.0\ref\Exercicio05.dll
